@@ -1,6 +1,6 @@
-# Receipt- Itemizer Application
+# Insurance Claim Application
 
-The main aim of this application is to consume receipt a and show a weekly report.
+Application to extract claim information using OCR(Optical Character Recongnition)
 
 ## Instructions to run the application locally.
 1. Install Nodejs, https://nodejs.org/en/
